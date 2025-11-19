@@ -5,7 +5,7 @@
   <a href="https://github.com/mokrane-mokhtari">
     <img src="https://img.shields.io/badge/GitHub-mokrane--mokhtari-black?logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/mokrane-mokhtari">
+  <a href="https://www.linkedin.com/in/mokrane-mokhtari-b370a6229/">
     <img src="https://img.shields.io/badge/LinkedIn-Mokrane%20Mokhtari-blue?logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/Student-Computer%20Science-green" />
